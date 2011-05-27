@@ -1,14 +1,16 @@
 syntax: glob
 
+.Python
+bin/
 build/
 dist/
+docs/build/
+include/
+lib/
+share/
 *.egg-info
 *.pyc
 *.class
-
 .DS_Store
 *.tmproj
-
-docs/build/
 .coverage
-
